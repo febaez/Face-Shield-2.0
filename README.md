@@ -10,7 +10,7 @@
       - [Cintillo fijo impreso en 3D](#cintillo-fijo-impreso-en-3d)
       - [Parte móvil impresa en 3D](#parte-m-vil-impresa-en-3d)
       - [Parte elástica impresa en 3D](#parte-el-stica-impresa-en-3d)
-      - [Parámetros de impresión](#par-ametros-de-impresión)
+      - [Impresión de piezas](#impresi-n-de-piezas)
     + [Partes comerciales](#partes-comerciales)  
       - [Mica tamaño oficio](#mica-tamaño-oficio) 
       - [Elástico común](#el-stico-com-n)
@@ -56,7 +56,11 @@ Esta pieza consta de una parte mediante la cual se fija al cintillo fijo y una p
       title="ParteElastica" width="600" />
 
 
-#### Parámetros de impresión
+#### Impresión de piezas
+
+<img src="/Imagenes/OrientacionPiezas.jpg" alt="OrientacionPiezas"
+      title="OrientacionPiezas" width="600" />
+
 Para imprimir las partes o piezas mencionadas te recomendamos utilizar los siguientes parametros de impresión:
 * Material: PLA
 * Temperatura de extrusor: 210ºC
