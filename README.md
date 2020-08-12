@@ -82,7 +82,7 @@ Para fijar la parte móvil a tu cabeza puedes ocupar un elástico común o cualq
 
 
 ## Ensamble 
-Una vez que se cuente con todas las partes que coforman al escudo facial debes seguir los siguientes pasos para realizar su ensamble:
+Una vez que cuentes con todas las partes que coforman al escudo facial debes seguir los siguientes pasos para realizar su ensamble:
 
 1. Inserta la parte elástica en el soporte que el cintillo posee para la misma.
 
