@@ -57,11 +57,12 @@ Esta pieza consta de una parte mediante la cual se fija al cintillo fijo y una p
 
 
 #### Impresión de piezas
+Para imprimir las partes o piezas mencionadas te recomendamos orientarlas como se observa en la siguiente imagen:
 
 <img src="/Imagenes/OrientacionPiezas.jpg" alt="OrientacionPiezas"
       title="OrientacionPiezas" width="800" />
 
-Para imprimir las partes o piezas mencionadas te recomendamos utilizar los siguientes parametros de impresión:
+Asimismo, te recomendamos utilizar los siguientes parámetros de impresión:
 * Material: PLA
 * Temperatura de extrusor: 210ºC
 * Temperatura cama: 50ºC
