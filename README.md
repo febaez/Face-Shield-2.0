@@ -59,7 +59,7 @@ Esta pieza consta de una parte mediante la cual se fija al cintillo fijo y una p
 #### Impresión de piezas
 
 <img src="/Imagenes/OrientacionPiezas.jpg" alt="OrientacionPiezas"
-      title="OrientacionPiezas" width="600" />
+      title="OrientacionPiezas" width="800" />
 
 Para imprimir las partes o piezas mencionadas te recomendamos utilizar los siguientes parametros de impresión:
 * Material: PLA
